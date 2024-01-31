@@ -4,7 +4,7 @@ The pen plotter postcard exchange (ptpx) set up by [Paul](https://paulbutler.org
 
 
 ## Inspiration
-This year's exchange (my second) hit me at a time when I was experimenting with typography and also feeling very nostalgic. At the same time the quality of work y'all are creating and sharing is so good, the self-doubt starts creeping in. So I draw inspiration from lyrics like "fear in itself will use you up and break you down like you were never enough" from Blue October's Fear. Maybe mine won't be good, but I don't need to be bothered with those details, just create and have fun with it! I ended up with a collection of songs that have had some kind of meaning in my past.
+This year's exchange (my second) hit me at a time when I was experimenting with typography and also feeling very nostalgic. At the same time the quality of work y'all are creating and sharing is so good, the self-doubt starts creeping in. So I draw inspiration from lyrics like "fear in itself will use you up and break you down like you were never enough" from Blue October's _Fear_. Maybe mine won't be good, but I don't need to be bothered with those details, just create and have fun with it! I ended up with a collection of songs that have had some kind of meaning in my past.
 
 ## The postcards
 ![](https://github.com/codecreative/ptpx-2023/blob/main/ptpx-2023-postcards.jpg?raw=true)
@@ -14,7 +14,7 @@ The layouts are all done through code with a general degree of chance involved -
 
 ## Materials
 Paper: A6 Recycled Ivory Fleck or Ivory Linen \
-Colors: Posca pens provide the background color splashes \
+Colors: Posca pens provide the background color splashes. Bic Crystal pen used for the magenta on _Neverending math equation_ \
 Pens: Sakura Pigma Micron 05, Sakura Pigma Micron 03, Copic multiliner
 
 ## Thank you
